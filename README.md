@@ -12,7 +12,7 @@ This project demonstrates how to build a simple neural network from scratch to r
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Results](#results)
-- 
+
 ## Introduction
 
 The objective of this project is to create a neural network from scratch to classify digits from the MNIST dataset. The MNIST dataset is a benchmark dataset in the machine learning community, consisting of 60,000 training images and 10,000 test images of handwritten digits from 0 to 9.
@@ -33,6 +33,7 @@ pip install numpy matplotlib scikit-learn
 ## Dataset
 
 The MNIST dataset contains 28x28 grayscale images of handwritten digits. Each image is labeled with the correct digit. The dataset is available from various sources such as `keras.datasets` or `sklearn.datasets`.
+
 Kaggle Link: https://www.kaggle.com/competitions/digit-recognizer
 
 ## Model Architecture
