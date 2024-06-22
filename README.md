@@ -1,7 +1,3 @@
-Based on the provided Jupyter notebook content, here's a comprehensive README file for your project:
-
----
-
 # Neural Network from Scratch: Digit Recognition
 
 This project demonstrates how to build a simple neural network from scratch to recognize handwritten digits using the MNIST dataset. The implementation is done using basic Python and NumPy without relying on deep learning frameworks like TensorFlow or PyTorch.
